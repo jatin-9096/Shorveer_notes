@@ -1,0 +1,17 @@
+# NDA Maths: Algebra Quick Revision
+
+## 1. Sets & Relations
+- A set is a well-defined collection of objects.
+- Empty set is denoted by ∅.
+- Subset: If every element of A is in B, then A ⊆ B.
+
+## 2. Quadratic Equations
+- Standard form: ax² + bx + c = 0
+- Roots formula: x = [-b ± sqrt(b² - 4ac)] / 2a
+- Sum of roots = -b/a
+- Product of roots = c/a
+
+## 3. Logarithms
+- log_b(x) = y means b^y = x
+- log(ab) = log(a) + log(b)
+- log(a/b) = log(a) - log(b)
