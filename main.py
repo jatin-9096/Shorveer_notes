@@ -72,4 +72,3 @@ if __name__ == "__main__":
         push_to_github(html)
     else:
         print("No notes found.")
-        
