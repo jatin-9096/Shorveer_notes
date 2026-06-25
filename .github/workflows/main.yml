@@ -22,4 +22,3 @@ jobs:
           GITHUB_USERNAME: "jatin-9096"
           GITHUB_REPO: "Shorveer_notes"
         run: python main.py
-        
